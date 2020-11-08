@@ -1,0 +1,51 @@
+
+.font{
+  font-family: Sans-serif;
+}
+
+.ugly-link{
+  font-family: Sans-serif;
+  text-decoration: none;
+  color: red;
+}
+
+.boldText{
+  font-weight: lighter;
+}
+
+.background{
+  background-color: rgba(255, 255, 255, 0.856);
+  padding-top: 30px;
+  padding-bottom: 65px;
+  top: 10px;
+}
+
+.imgbackground{
+  background-color: rgba(255, 255, 255, 0.856);
+}
+
+.bio{
+  width: 400px;
+  height: 100px;
+}
+
+.fixed-Photo{
+  position: fixed;
+  padding-left: 100px;
+}
+
+.bottomPadding{
+  padding-bottom: 50px;
+}
+
+#image{
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin: 0;
+}
+
+
+
